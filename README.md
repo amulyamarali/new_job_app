@@ -1,4 +1,5 @@
 # Expo Router Example
+This is a mobile app which uses an api to search for jobs based on different parameters and is built using React Native.
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
